@@ -1,3 +1,10 @@
+# Brick Hill Frontend Remake
+This is a remake of the Brick Hill frontend using SvelteKit & TailwindCSS, it also includes components that were never code (just figma concepts), like the new Navbar.
+
+No one is allowed to use this except myself. (For now)
+
+Building steps are below!
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
